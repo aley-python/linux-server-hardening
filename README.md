@@ -4,7 +4,7 @@ This repository contains scripts, configurations, and documentation focused on s
 
 ## About Me
 
-Hi, I'm [aley-python](https://github.com/aley-python), learning and sharing knowledge about Linux server setup, security, and automation.
+Hi, I'm [Shah Hussain](https://github.com/aley-python), learning and sharing knowledge about Linux server setup, security, and automation.
 
 ## Contents
 
